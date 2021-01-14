@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Another Developers Blog
+image: /img/4896ea5c-b2c4-451b-b43d-ff1c49de235f.jpg
+heading: These posts will mostly outline a journey through DGM-3780
+subheading: Just another blog about the journey of a developer.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: A little about me
+  description: I began my journey into web development while initially pursuing a
+    degree in biology. The class that started me down this path was aimed at
+    hand coding very basic html and javascript pages and providing some
+    experience using Drupal since that was what the University I was attending
+    at the time was using for their sites.
+description: This blog was set up as part of the DGM-3780 course and will serve
+  as a platform to post updates about the course and projects.
 intro:
   blurbs:
     - image: /img/coffee.png
