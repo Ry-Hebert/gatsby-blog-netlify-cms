@@ -13,4 +13,20 @@ mainpitch:
     at the time was using for their sites.
 description: This blog was set up as part of the DGM-3780 course and will serve
   as a platform to post updates about the course and projects.
+intro:
+  blurbs: []
+  heading: " "
+  description: " "
+main:
+  heading: " "
+  description: " "
+  image1:
+    alt: " "
+    image: /img/safari-pinned-tab.svg
+  image2:
+    alt: " "
+    image: /img/safari-pinned-tab.svg
+  image3:
+    alt: " "
+    image: /img/safari-pinned-tab.svg
 ---
